@@ -25,6 +25,7 @@
 	<!--[if lte IE 7]>
 		<link rel="stylesheet" type="text/css" href="./website/ie.css" media="all" />
 	<![endif]-->
+    <script type="text/javascript" src="http://latex.codecogs.com/latexit.js"></script>
 
 </head>
 
@@ -231,7 +232,7 @@
 						<ul>
 							<li>
 								<div class="progress_container">
-									<div class="progress_bar" style="width: 100.0%;"></div>
+									<div class="progress_bar" style="width: 0.7002209877829825%;"></div>
 								</div>
 							</li>
 						</ul>
@@ -250,12 +251,12 @@
 						<ul>
 							<li>
 								<div class="progress_container">
-									<div class="progress_bar" style="width: 100.0%;"></div>
+									<div class="progress_bar" style="width: 10.892348209927787%;"></div>
 								</div>
 							</li>
 							<li>
 								<div class="progress_container">
-									<div class="progress_bar" style="width: 66.66666666666666%;"></div>
+									<div class="progress_bar" style="width: 7.2615654732851915%;"></div>
 								</div>
 							</li>
 						</ul>
@@ -317,6 +318,16 @@
 				</div>
 
 				<div class="clear">&nbsp;</div>
+
+                <div id="legend">
+                    <p>Bars are calculated using:</p>
+                    <p lang="latex">factor * \sum_{i = end}^{start} 2^{-\frac{i}{12}}</p>
+                    <p>where <em>factor</em> - depends on usage frequency (1 - day-to-day, 0.75 - often, 0.5 -
+                        occasionally),
+                        <em>start</em> - months since first usage
+                        <em>end</em> - months since last usage
+                    </p>
+                </div>
 			</div>
 			<!-- // end of skills info (sidebar) -->
 			<!-- start of education info (sidebar) -->
