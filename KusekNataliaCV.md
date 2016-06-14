@@ -6,7 +6,7 @@
 
 *GitHub*: []()
 
-*LinkedIn*: []()
+*LinkedIn*: [https://uk.linkedin.com/in/nataliakusek/en](https://uk.linkedin.com/in/nataliakusek/en)
 
 *Website*: [http://natalia.kusek.info](http://natalia.kusek.info)
 
@@ -44,7 +44,7 @@ Position type: contractor via agency
 
 Technologies: ArcGIS, Microsoft Excel, 
 
-### GIS Technician Intern (2014-11 - 2014-12), GISON (), Krakow, Poland
+### GIS Technician Intern (2014-11 - 2014-12), GISON (GIS systems provider), Krakow, Poland
 Position type: permanent
 * Creating metadata, digitalizing map data. 
 
