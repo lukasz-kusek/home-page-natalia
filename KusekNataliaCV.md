@@ -14,30 +14,40 @@
 
 ## Land Surveyor/GIS Technician
 
-Master of Science in Geodesy, Surveying and Cartography with 10 months experience in GIS and 3 years in land surveying.
+Master of Science in Geodesy, Surveying and Cartography with 1 year experience in GIS and 2 years in land surveying and CAD.
 
 ### Availability
 
-2 weeks
+now
 
 ### Skills
 
 #### Cad
-Microstation, 
+Ewmapa, MikroMap, Microstation, 
 
 #### Gis
 ArcGIS, QGIS, 
 
 #### Land surveying
-WinKalk, MikroMap, Ewmapa, 
+WinKalk, 
 
 #### Office
 Microsoft Excel, Microsoft Word, 
 
+#### Programming
+Python, 
+
 
 ## Experience
 
-### GIS Technician (2015-11 - ), Cyient (Telecommunication), Aylesbury, United Kingdom
+### Director (2016-06 - ), Kusek Ltd (IT), Harpenden, United Kingdom
+Position type: ownership
+* Running a small IT company. 
+
+
+Technologies: Python, xero.com, 
+
+### GIS Technician (2015-11 - 2016-10), Cyient (Telecommunication), Aylesbury, United Kingdom
 Position type: contractor via agency
 * Designing fibre network for BT. 
 
@@ -88,4 +98,4 @@ Currently learning ArcGIS and Python.
 
 ### Last updated
 
-14/06/16
+8/19/17
