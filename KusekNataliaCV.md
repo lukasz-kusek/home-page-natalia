@@ -4,7 +4,7 @@
 
 *Email*: natalia-cv@kusek.info
 
-*GitHub*: []()
+*GitHub*: [https://github.com/NataliaKusek](https://github.com/NataliaKusek)
 
 *LinkedIn*: [https://uk.linkedin.com/in/nataliakusek/en](https://uk.linkedin.com/in/nataliakusek/en)
 
@@ -12,9 +12,9 @@
 
 *Address*: Harpenden, UK
 
-## CAD/GIS Technician
+## Junior Python Developer
 
-Master of Science in Geodesy, Surveying and Cartography with 1 year experience in GIS and 2 years in land surveying and CAD.
+Master of Science in Geodesy, Surveying and Cartography with 1 year experience in GIS and 2 years in land surveying and CAD. Learning Python and SQL.
 
 ### Availability
 
@@ -24,6 +24,9 @@ now
 
 #### Cad
 Ewmapa, MikroMap, Microstation, 
+
+#### Database
+PostgreSQL, 
 
 #### Gis
 ArcGIS, QGIS, 
@@ -35,17 +38,27 @@ WinKalk,
 Microsoft Excel, Microsoft Word, 
 
 #### Programming
-Python, 
+Python, SQL, 
+
+#### Tool
+Git, GitHub, 
 
 
 ## Experience
+
+### Junior Python Developer (2017-11 - ), Kusek Ltd (IT), Harpenden, United Kingdom
+Position type: ownership
+* Learning Python and SQL. 
+
+
+Technologies: Python, Git, GitHub, SQL, PostgreSQL, Markdown, 
 
 ### Director (2016-06 - ), Kusek Ltd (IT), Harpenden, United Kingdom
 Position type: ownership
 * Running a small IT company. 
 
 
-Technologies: Python, xero.com, 
+Technologies: xero.com, 
 
 ### GIS Technician (2015-11 - 2016-10), Cyient (Telecommunication), Aylesbury, United Kingdom
 Position type: contractor via agency
@@ -77,6 +90,9 @@ Technologies: Microstation,
 
 
 ## Recommendations
+"Natalia is working fast and efficient and good result oriented, he´s opened to learn new things."
+Mariusz Krukar, October 8, 2016
+
 
 ## Learning
 
@@ -98,4 +114,4 @@ Currently learning ArcGIS and Python.
 
 ### Last updated
 
-8/19/17
+11/25/17
