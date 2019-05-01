@@ -12,9 +12,9 @@
 
 *Address*: Harpenden, UK
 
-## Junior Python Developer
+## Junior Data Scientist
 
-Master of Science in Geodesy, Surveying and Cartography with 1 year experience in GIS and 2 years in land surveying and CAD. Learning Python and SQL.
+Cambridge Spark Data Science bootcamp graduate with Python and Machine Learning knowledge. Master of Science with 1 year experience in GIS and 2 years in land surveying and CAD.
 
 ### Availability
 
@@ -22,20 +22,14 @@ now
 
 ### Skills
 
-#### Cad
-Ewmapa, MikroMap, Microstation, 
-
 #### Database
 PostgreSQL, 
 
 #### Gis
 ArcGIS, QGIS, 
 
-#### Land surveying
-WinKalk, 
-
-#### Office
-Microsoft Excel, Microsoft Word, 
+#### Machine learning
+Spark, Natural Language Processing, Data analysis, Supervised Learning, Data visualisation, Convolutional neural network, Deep Learning, Unsupervised Learning, 
 
 #### Programming
 Python, SQL, 
@@ -46,19 +40,13 @@ Git, GitHub,
 
 ## Experience
 
-### Junior Python Developer (2017-11 - ), Kusek Ltd (IT), Harpenden, United Kingdom
-Position type: ownership
-* Learning Python and SQL. 
-
-
-Technologies: Python, Git, GitHub, SQL, PostgreSQL, Markdown, 
-
 ### Director (2016-06 - ), Kusek Ltd (IT), Harpenden, United Kingdom
 Position type: ownership
-* Running a small IT company. 
+* Running small IT company. 
+* Since 2018-09 studying Machine Learning, learning Python and SQL. 
 
 
-Technologies: xero.com, 
+Technologies: xero.com, Python, Git, GitHub, SQL, PostgreSQL, Deep Learning, Supervised Learning, Unsupervised Learning, Convolutional neural network, Data analysis, Data visualisation, Natural Language Processing, Spark, Markdown, 
 
 ### GIS Technician (2015-11 - 2016-10), Cyient (Telecommunication), Aylesbury, United Kingdom
 Position type: contractor via agency
@@ -98,10 +86,18 @@ Mariusz Krukar, October 8, 2016
 
 ### Education
 
+Cambridge Spark (2018 - 2019), Applied Data Science Bootcamp
+
 University of Agriculture in Krakow (2006 - 2011), Agricultural Land Surveying and Property Appraisal
 
 
 ### Conferences / trainings
+
+Data Workshop - Practical machine learning (2019)
+
+Big Data World London (2019)
+
+Big Data Technology Warsaw Summit (2019)
 
 Programming for Everybody (Getting Started with Python) (2015)
 
@@ -114,4 +110,4 @@ Currently learning ArcGIS and Python.
 
 ### Last updated
 
-1/18/18
+5/1/19

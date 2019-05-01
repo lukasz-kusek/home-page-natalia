@@ -10,15 +10,15 @@
     "address": "Harpenden, UK"
   },
   "summary": {
-    "title": "Junior Python Developer",
-    "description": "Master of Science in Geodesy, Surveying and Cartography with 1 year experience in GIS and 2 years in land surveying and CAD. Learning Python and SQL."
+    "title": "Junior Data Scientist",
+    "description": "Cambridge Spark Data Science bootcamp graduate with Python and Machine Learning knowledge. Master of Science with 1 year experience in GIS and 2 years in land surveying and CAD."
   },
   "availability": "now",
   "experience": [
     {
       "positions": [
         {
-          "title": "Junior Python Developer"
+          "title": "Director"
         }
       ],
       "employment": "ownership",
@@ -32,11 +32,19 @@
       },
       "projects": [
         {
-          "description": "Learning Python and SQL."
+          "description": "Running small IT company."
+        },
+        {
+          "description": "Since 2018-09 studying Machine Learning, learning Python and SQL."
         }
       ],
-      "start-date": "2017-11",
+      "start-date": "2016-06",
       "skills": [
+        {
+          "name": "xero.com",
+          "usage-frequency": "occasionally",
+          "category": "Accounting"
+        },
         {
           "name": "Python",
           "usage-frequency": "often",
@@ -63,38 +71,49 @@
           "category": "Database"
         },
         {
+          "name": "Deep Learning",
+          "usage-frequency": "often",
+          "category": "Machine Learning"
+        },
+        {
+          "name": "Supervised Learning",
+          "usage-frequency": "often",
+          "category": "Machine Learning"
+        },
+        {
+          "name": "Unsupervised Learning",
+          "usage-frequency": "often",
+          "category": "Machine Learning"
+        },
+        {
+          "name": "Convolutional neural network",
+          "usage-frequency": "often",
+          "category": "Machine Learning"
+        },
+        {
+          "name": "Data analysis",
+          "usage-frequency": "often",
+          "category": "Machine Learning"
+        },
+        {
+          "name": "Data visualisation",
+          "usage-frequency": "often",
+          "category": "Machine Learning"
+        },
+        {
+          "name": "Natural Language Processing",
+          "usage-frequency": "often",
+          "category": "Machine Learning"
+        },
+        {
+          "name": "Spark",
+          "usage-frequency": "often",
+          "category": "Machine Learning"
+        },
+        {
           "name": "Markdown",
           "usage-frequency": "occasionally",
           "category": "Programming"
-        }
-      ]
-    },
-    {
-      "positions": [
-        {
-          "title": "Director"
-        }
-      ],
-      "employment": "ownership",
-      "company": {
-        "name": "Kusek Ltd",
-        "industry": "IT",
-        "location": {
-          "city": "Harpenden",
-          "country": "United Kingdom"
-        }
-      },
-      "projects": [
-        {
-          "description": "Running a small IT company."
-        }
-      ],
-      "start-date": "2016-06",
-      "skills": [
-        {
-          "name": "xero.com",
-          "usage-frequency": "occasionally",
-          "category": "Accounting"
         }
       ]
     },
@@ -249,13 +268,54 @@
   "learning": {
     "education": [
       {
+        "school-name": "Cambridge Spark",
+        "start-date": "2018",
+        "end-date": "2019",
+        "field-of-study": "Applied Data Science Bootcamp",
+        "capstone-project": "Classify photograph of property as interior v/s exteriors",
+        "description": [
+          "Modules include:",
+          "- Essentials of Computer Science, Probability and Statistics",
+          "- EDA, Feature Engineering and Unsupervised Learning",
+          "- Supervised and Semi-Supervised Learning, Training and Validation",
+          "- Regression Models and Time Series",
+          "- Ensemble Models and Support Vector Classifiers",
+          "- Cloud Computing and Databases",
+          "- Big Data Systems",
+          "- Neural Networks and Deep Learning",
+          "- Natural Language Processing"
+        ]
+      },
+      {
         "school-name": "University of Agriculture in Krakow",
         "start-date": "2006",
         "end-date": "2011",
-        "field-of-study": "Agricultural Land Surveying and Property Appraisal"
+        "field-of-study": "Agricultural Land Surveying and Property Appraisal",
+        "degree": "Master of Science"
       }
     ],
     "conferences-trainings": [
+      {
+        "name": "Data Workshop - Practical machine learning",
+        "type": "course",
+        "date": "2019",
+        "duration": "",
+        "www": ""
+      },
+      {
+        "name": "Big Data World London",
+        "type": "conference",
+        "date": "2019",
+        "duration": "",
+        "www": ""
+      },
+      {
+        "name": "Big Data Technology Warsaw Summit",
+        "type": "conference",
+        "date": "2019",
+        "duration": "",
+        "www": ""
+      },
       {
         "name": "Programming for Everybody (Getting Started with Python)",
         "type": "course",
