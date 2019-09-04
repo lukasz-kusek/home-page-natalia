@@ -14,7 +14,7 @@
 
 ## Junior Data Scientist
 
-Cambridge Spark Data Science bootcamp graduate with Python and Machine Learning knowledge. Master of Science with 1 year experience in GIS and 2 years in land surveying and CAD.
+Cambridge Spark Data Science bootcamp graduate with Python and Machine Learning knowledge. Bachelor of Science with 1 year experience in GIS and 2 years in land surveying and CAD.
 
 ### Availability
 
